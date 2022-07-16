@@ -1,10 +1,10 @@
 ### Hi there, I'm Simone Leoni! 👋
 
-🔭 IT students in University of Parma. 
+🎓 IT student in Universitá degli Studi di Parma.
 
-🌱 I'm interested in Software Security and Software Engineering.
+💭 I'm interested in Software Security and Software Engineering.
 
-:space_invader: CTF player with @havce.
+👾 CTF player with @havce.
 
 📫 How to reach me: leonisimone@pm.me
 
