@@ -6,11 +6,14 @@
 
 👾 CTF player with @havce.
 
-📫 How to reach me: leonisimone@pm.me
+📫 How to reach me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simone-leoni-423990227/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:leonisimone@pm.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
 </p>
 
