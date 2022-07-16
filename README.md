@@ -1,6 +1,6 @@
 ### Hi there, I'm Simone Leoni! 👋
 
-🔭 It students in University of Parma. 
+🔭 IT students in University of Parma. 
 
 🌱 I'm interested in Software Security and Software Engineering.
 
