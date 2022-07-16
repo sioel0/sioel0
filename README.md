@@ -4,7 +4,7 @@
 
 💭 I'm interested in Software Security and Software Engineering.
 
-👾 CTF player with @havce.
+👾 CTF player with [havce](https://github.com/havce).
 
 📫 How to reach me:
 
