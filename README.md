@@ -8,6 +8,12 @@
 
 📫 How to reach me: leonisimone@pm.me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/simone-leoni-423990227/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 ---
 
 ### Programming Languages
