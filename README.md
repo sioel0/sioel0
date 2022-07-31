@@ -60,9 +60,9 @@
 
 ---
 <p align="center">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=sioel0&count_private=true&theme=nord&show_icons=true&hide_border=true&custom_title=sioel0's%20Github%20Stats"/>
-  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sioel0&theme=nord&hide_border=true&border_radius=15"/>
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=sioel0&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&custom_title=sioel0's%20Github%20Stats"/>
+  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sioel0&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sioel0&theme=nord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sioel0&theme=tokyonight">
 </p>
