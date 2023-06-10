@@ -1,6 +1,6 @@
 ### Hi there, I'm Simone Leoni! 👋
 
-🎓 IT student in Universitá degli Studi di Parma.
+🧑‍💼 Embedded software developer at OTConsulting.
 
 💭 I'm interested in Software Security and Software Engineering.
 
