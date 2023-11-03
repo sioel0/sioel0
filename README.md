@@ -1,15 +1,15 @@
 ### Hi there, I'm Simone Leoni! 👋
 
-🧑‍💼Automotive software developer at OTConsulting.
+🧑‍💼 I'm studying CyberSecurity at [University of Milan](https://www.unimi.it/it/corsi/laurea-magistrale/sicurezza-informatica)
 
-💭 I'm interested in Software Security and Software Engineering.
+💭 I'm interested in Software Security, Software Engineering and Malware Analysis.
 
 👾 CTF player with [havce](https://github.com/havce).
 
 📫 How to reach me:
 
 <p align="center">
-  <a href="mailto:leonisimone@pm.me">
+  <a href="mailto:sioel0@pm.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/simone-leoni-423990227/">
