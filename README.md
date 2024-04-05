@@ -1,4 +1,4 @@
-### Hi there, I'm Simone Leoni! 👋
+### Hello there, I'm Simone Leoni! 👋
 
 🧑‍💼 I'm studying CyberSecurity at [University of Milan](https://www.unimi.it/it/corsi/laurea-magistrale/sicurezza-informatica)
 
