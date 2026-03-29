@@ -1,12 +1,10 @@
-<div align="center">
+<div align="center" style="margin-bottom: 2rem">
     <img src="./Banner.jpg"/>
 </div>
 
 <div align="center">
 
 ![sioel0](https://img.shields.io/badge/_sioel0-blue?style=for-the-badge&logo=Probot&logoColor=white)
-
----
 
 </div>
 
@@ -16,6 +14,8 @@
 - 🎓 Master Degree in CyberSecurity at University of Milan
 
 - ⛳ Member of @havce CTF team
+
+---
 
 <div align="center">
 
