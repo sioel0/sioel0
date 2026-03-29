@@ -6,14 +6,14 @@
 
 # 📫 About Me
 
+</div>
+
 - 🧑‍🔧 CyberSecurity enthusiast focused on technical stuff. I like understanding low level stuff and how
   things actually work
 
 - 🎓 Master Degree in CyberSecurity at University of Milan
 
 - ⛳ Member of @havce CTF team
-
-</div>
 
 <div align="center">
 
