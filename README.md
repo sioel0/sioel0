@@ -4,11 +4,13 @@
 
 <div align="center">
 
-# 📫 About Me
+![sioel0](https://img.shields.io/badge/_sioel0-blue?style=for-the-badge&logo=Probot&logoColor=white)
+
+---
 
 </div>
 
-- 🧑‍🔧 CyberSecurity enthusiast focused on technical stuff. I like understanding low level stuff and how
+- 🧑‍🔧 CyberSecurity enthusiast focused on technical stuff. I like low level stuff and understanding how
   things actually work
 
 - 🎓 Master Degree in CyberSecurity at University of Milan
@@ -34,6 +36,8 @@
 ![MacOs](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black) ![Tailscale](https://img.shields.io/badge/Tailscale-242424.svg?style=for-the-badge&logo=Tailscale&logoColor=white) ![PiHole](https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logo=Pi-hole&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
 </div>
+
+---
 
 <div align="center">
 
