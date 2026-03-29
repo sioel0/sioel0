@@ -7,8 +7,6 @@
 
 <div align="center">
 
-![sioel0](https://img.shields.io/badge/_sioel0-blue?style=for-the-badge&logo=Probot&logoColor=white)
-
 </div>
 
 - 🧑‍🔧 CyberSecurity enthusiast focused on technical stuff. I like low level stuff and understanding how
@@ -47,7 +45,7 @@
 ### 📇 Contacts
 
 <a href="sioel0@pm.me">
-    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF.svg?style=for-the-badge&logo=Proton-Mail&logoColor=white" />
+    <img src="https://img.shields.io/badge/_sioel0-blue?style=for-the-badge&logo=Probot&logoColor=white" />
 </a>
 
 </div>
