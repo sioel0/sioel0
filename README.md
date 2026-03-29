@@ -44,7 +44,7 @@
 
 ### 📇 Contacts
 
-<a href="sioel0@pm.me">
+<a href="mailto:sioel0@pm.me">
     <img src="https://img.shields.io/badge/_sioel0-blue?style=for-the-badge&logo=Probot&logoColor=white" />
 </a>
 
